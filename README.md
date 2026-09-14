@@ -14,3 +14,6 @@ Open in Android Studio and run on an emulator or device (min SDK 30).
 
 - `MainActivity.kt` — reads the name field and sets the TextView to `Hi, {name}` on button click
 - `activity_main.xml` — TextView, EditText, and Button laid out with ConstraintLayout
+
+Screenshots:
+![Here](image.png)
